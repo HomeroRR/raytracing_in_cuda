@@ -13,9 +13,9 @@ And then the following to save the output in the out.ppm image file:
 main > out.ppm
 ```
 
-## Alternatively, one can also output metric evaluations with nvprof as follows:
+## Alternatively, one can also output metric evaluations after compilation with nvprof as follows:
 ```bash
-nvprof --metrics inst_fp_32,inst_fp_64 ./cudart > out.ppm
+nvprof --metrics inst_fp_32,inst_fp_64 ./main > out.ppm
 ```
 
 ## Corrections
