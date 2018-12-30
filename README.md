@@ -1,6 +1,6 @@
 Ray Tracer written in CUDA
 ====================================================================================================
-The aim of this project is to implement a raytracer in CUDA.
+The aim of this project is to implement a raytracer in CUDA from scratch.
 
 How To Run
 -----------------
