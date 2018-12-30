@@ -15,4 +15,4 @@ Thanks to Peter Shirley for his books on raytracing along with releasing the cod
 
 
 [directly from GitHub]:       https://github.com/petershirley/raytracingtherestofyourlife/releases/
-[submit issues via GitHub]:   https://github.com/HomeroRR/raytracin_in_cuda/issues/
+[submit issues via GitHub]:   https://github.com/HomeroRR/raytracing_in_cuda/issues/
